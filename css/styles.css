@@ -352,6 +352,7 @@ body {
 }
 
 .portfolio-list-button {
+    padding: 0 25px;
     background: var(--bg-second);
     font-family: inherit;
     font-weight: 500;
@@ -370,7 +371,7 @@ body {
 }
 
 .active-button {
-    background-color: var(--acсent-color);
+    background-color: var(--acсent-color); 
 }
 
 .portfolio-client {
