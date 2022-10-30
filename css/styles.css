@@ -219,6 +219,10 @@ body {
 }
 
 /* Чим ми займаємося */
+.what>.container{
+    padding-top: 0;
+}
+
 .what-title {
     margin-bottom: 50px;
     font-size: 36px;
