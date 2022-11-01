@@ -363,6 +363,10 @@ img {
 }
 
 /* PORTFOLIO */
+.portfolio {
+    padding: 94px 0;
+}
+
 .portfolio-list {
     display: flex;
     justify-content: center;
@@ -408,10 +412,6 @@ img {
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
-}
-
-.portfolio-client{
-    margin-bottom: 94px;
 }
 
 .portfolio-client-item {
