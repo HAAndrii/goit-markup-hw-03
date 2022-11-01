@@ -410,6 +410,10 @@ img {
     gap: 30px;
 }
 
+.portfolio-client{
+    margin-bottom: 94px;
+}
+
 .portfolio-client-item {
     flex-basis: calc((100% - 60px) / 3);
 }
